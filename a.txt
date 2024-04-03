@@ -4,3 +4,4 @@ This id day3 of devops class
 Working on task1
 Working on taks2
 Working on task3
+This demo is to show how to unstage
