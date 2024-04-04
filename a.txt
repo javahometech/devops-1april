@@ -5,3 +5,5 @@ This id day3 of devops class
 Working on task1
 Working on taks2
 Working on task3
+Send email to the studnes when they signup in javahome website
+The task is finished and tested
